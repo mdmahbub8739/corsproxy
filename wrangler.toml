@@ -1,0 +1,7 @@
+name = "corsproxy"
+main = "src/index.ts"
+compatibility_date = "2022-11-24"
+
+kv_namespaces = [
+    { binding = "ANALYTICS", id = "536d915512094384b9307daea15768b7", preview_id = "4daadfc8c22742acab5fb924892f76a9" },
+]
